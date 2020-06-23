@@ -1,6 +1,6 @@
 # Russian-roulette
 Russian roulette
-根据nonebot(https://github.com/nonebot/nonebot)利用python写的类俄罗斯轮盘赌游戏，失败的惩罚为禁言，所以记得给机器人管理员权限。
+根据nonebot ( https://github.com/nonebot/nonebot ) 利用python写的类俄罗斯轮盘赌游戏，失败的惩罚为禁言，所以记得给机器人管理员权限。
 
 目前的玩法设计:
 
