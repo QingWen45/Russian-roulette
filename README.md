@@ -5,6 +5,8 @@ Russian roulette
 
 #由于酷Q已经挂了，本程序成功成为了历史#
 
+#基于nonebot2开发的新版此插件已经集合在Dorothy里了#
+
 
 目前的玩法设计:
 
